@@ -5,6 +5,7 @@ Apache Kafka
 
 1. **Clone and install dependencies**:
 ```bash
+git clone https://github.com/404-dev-notFound/Kafka.git
 pip install confluent-kafka
 ```
 
